@@ -1,15 +1,35 @@
+/*aca declaramos*/
 
-$color: #add8e6;  
+$color: #86d1ec;  
+$margin: 50px;
+$fondo: #90bce7!important;
+/* grid 
+$diplay: grid;
+$grid-template-columns: 1fr 1fr;
+$tablas: center;*/
+
+
+
+
+
+
+
+
+/*aca heredamos*/
 
 .pagina1
 {
    color: $color;
 }
 
-$margin: 50px; 
-
 .informacion
 {
-   margin: margin;
+   margin: $margin;
 }
 
+.bg-light 
+{
+   background-color: $fondo
+}
+
+/*historia*/
